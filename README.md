@@ -1,8 +1,6 @@
 # Hotel Bookings Data Analysis with MS Excel
 
-Explore hotel bookings data using MS Excel. Dataset: [hotel_bookings.csv](https://github.com/Ayushi0214/Datasets/blob/main/hotel_bookings.csv).
-
-<img src="https://github.com/mateenjameel/Hotel_Bookings_Data_Analysis/blob/main/Hotel_Bookings.PNG" alt="Hotel Bookings Dashboard">
+![Hotel Bookings Dashboard](https://github.com/mateenjameel/Hotel_Bookings_Data_Analysis/blob/main/Hotel_Bookings.PNG)
 
 ## Key Features
 
