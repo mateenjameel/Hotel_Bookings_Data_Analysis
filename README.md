@@ -7,11 +7,21 @@
 - Visualizations highlight key insights.
 - Interactive dashboard for data exploration.
 
+## Files
+
+- `Hotel_Bookings.PNG`: Image file showing the hotel bookings dashboard.
+- `Hotel_Bookings_Data_Analysis.xlsx`: Excel file containing the data analysis.
+
 ## Usage
 
-- Use the 'data' folder for accessing visualizations.
-- Explore insights on the 'dashboard' sheet.
+- Open `Hotel_Bookings_Data_Analysis.xlsx` in MS Excel to explore visualizations.
+- Review insights provided in the 'dashboard' sheet.
 
 ## Contributions
 
 Contributions are welcome! Fork the repository and submit a pull request.
+
+## Contact Information
+
+- **LinkedIn:** [Mateen Jameel](https://www.linkedin.com/in/mateen-jameel)
+- **Email:** [jameelmateen34@gmail.com](mailto:jameelmateen34@gmail.com)
